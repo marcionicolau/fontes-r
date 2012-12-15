@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : BrCode Statistical Repository 
-tagline: BrCodes source 
+title : Fontes-R 
+tagline: Repositório de códigos, métodos e opniões 
 author :
   name : Marcio Nicolau
   email : marcionicolau@me.com
